@@ -1,0 +1,52 @@
+C:\Users\tshilidzi.nembilwi\Desktop\GitMVCApp1\LAB TASK-1\LAB TASK-1\LAB TASK-1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\tshilidzi.nembilwi\Desktop\GitMVCApp1\LAB TASK-1\LAB TASK-1\LAB TASK-1\bin\Debug\net6.0\appsettings.json
+C:\Users\tshilidzi.nembilwi\Desktop\GitMVCApp1\LAB TASK-1\LAB TASK-1\LAB TASK-1\bin\Debug\net6.0\LAB TASK-1.staticwebassets.runtime.json
+C:\Users\tshilidzi.nembilwi\Desktop\GitMVCApp1\LAB TASK-1\LAB TASK-1\LAB TASK-1\bin\Debug\net6.0\LAB TASK-1.exe
+C:\Users\tshilidzi.nembilwi\Desktop\GitMVCApp1\LAB TASK-1\LAB TASK-1\LAB TASK-1\bin\Debug\net6.0\LAB TASK-1.deps.json
+C:\Users\tshilidzi.nembilwi\Desktop\GitMVCApp1\LAB TASK-1\LAB TASK-1\LAB TASK-1\bin\Debug\net6.0\LAB TASK-1.runtimeconfig.json
+C:\Users\tshilidzi.nembilwi\Desktop\GitMVCApp1\LAB TASK-1\LAB TASK-1\LAB TASK-1\bin\Debug\net6.0\LAB TASK-1.dll
+C:\Users\tshilidzi.nembilwi\Desktop\GitMVCApp1\LAB TASK-1\LAB TASK-1\LAB TASK-1\bin\Debug\net6.0\LAB TASK-1.pdb
+C:\Users\tshilidzi.nembilwi\Desktop\GitMVCApp1\LAB TASK-1\LAB TASK-1\LAB TASK-1\obj\Debug\net6.0\LAB TASK-1.csproj.AssemblyReference.cache
+C:\Users\tshilidzi.nembilwi\Desktop\GitMVCApp1\LAB TASK-1\LAB TASK-1\LAB TASK-1\obj\Debug\net6.0\LAB TASK-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tshilidzi.nembilwi\Desktop\GitMVCApp1\LAB TASK-1\LAB TASK-1\LAB TASK-1\obj\Debug\net6.0\LAB TASK-1.AssemblyInfoInputs.cache
+C:\Users\tshilidzi.nembilwi\Desktop\GitMVCApp1\LAB TASK-1\LAB TASK-1\LAB TASK-1\obj\Debug\net6.0\LAB TASK-1.AssemblyInfo.cs
+C:\Users\tshilidzi.nembilwi\Desktop\GitMVCApp1\LAB TASK-1\LAB TASK-1\LAB TASK-1\obj\Debug\net6.0\LAB TASK-1.csproj.CoreCompileInputs.cache
+C:\Users\tshilidzi.nembilwi\Desktop\GitMVCApp1\LAB TASK-1\LAB TASK-1\LAB TASK-1\obj\Debug\net6.0\LAB TASK-1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tshilidzi.nembilwi\Desktop\GitMVCApp1\LAB TASK-1\LAB TASK-1\LAB TASK-1\obj\Debug\net6.0\LAB TASK-1.RazorAssemblyInfo.cache
+C:\Users\tshilidzi.nembilwi\Desktop\GitMVCApp1\LAB TASK-1\LAB TASK-1\LAB TASK-1\obj\Debug\net6.0\LAB TASK-1.RazorAssemblyInfo.cs
+C:\Users\tshilidzi.nembilwi\Desktop\GitMVCApp1\LAB TASK-1\LAB TASK-1\LAB TASK-1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\tshilidzi.nembilwi\Desktop\GitMVCApp1\LAB TASK-1\LAB TASK-1\LAB TASK-1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\tshilidzi.nembilwi\Desktop\GitMVCApp1\LAB TASK-1\LAB TASK-1\LAB TASK-1\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\tshilidzi.nembilwi\Desktop\GitMVCApp1\LAB TASK-1\LAB TASK-1\LAB TASK-1\obj\Debug\net6.0\scopedcss\bundle\LAB TASK-1.styles.css
+C:\Users\tshilidzi.nembilwi\Desktop\GitMVCApp1\LAB TASK-1\LAB TASK-1\LAB TASK-1\obj\Debug\net6.0\scopedcss\projectbundle\LAB TASK-1.bundle.scp.css
+C:\Users\tshilidzi.nembilwi\Desktop\GitMVCApp1\LAB TASK-1\LAB TASK-1\LAB TASK-1\obj\Debug\net6.0\LAB TASK-1.dll
+C:\Users\tshilidzi.nembilwi\Desktop\GitMVCApp1\LAB TASK-1\LAB TASK-1\LAB TASK-1\obj\Debug\net6.0\refint\LAB TASK-1.dll
+C:\Users\tshilidzi.nembilwi\Desktop\GitMVCApp1\LAB TASK-1\LAB TASK-1\LAB TASK-1\obj\Debug\net6.0\LAB TASK-1.pdb
+C:\Users\tshilidzi.nembilwi\Desktop\GitMVCApp1\LAB TASK-1\LAB TASK-1\LAB TASK-1\obj\Debug\net6.0\LAB TASK-1.genruntimeconfig.cache
+C:\Users\tshilidzi.nembilwi\Desktop\GitMVCApp1\LAB TASK-1\LAB TASK-1\LAB TASK-1\obj\Debug\net6.0\ref\LAB TASK-1.dll
+C:\Users\tshilidzi.nembilwi\Desktop\LAB TASK-1\LAB TASK-1\LAB TASK-1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\tshilidzi.nembilwi\Desktop\LAB TASK-1\LAB TASK-1\LAB TASK-1\bin\Debug\net6.0\appsettings.json
+C:\Users\tshilidzi.nembilwi\Desktop\LAB TASK-1\LAB TASK-1\LAB TASK-1\bin\Debug\net6.0\LAB TASK-1.staticwebassets.runtime.json
+C:\Users\tshilidzi.nembilwi\Desktop\LAB TASK-1\LAB TASK-1\LAB TASK-1\bin\Debug\net6.0\LAB TASK-1.exe
+C:\Users\tshilidzi.nembilwi\Desktop\LAB TASK-1\LAB TASK-1\LAB TASK-1\bin\Debug\net6.0\LAB TASK-1.deps.json
+C:\Users\tshilidzi.nembilwi\Desktop\LAB TASK-1\LAB TASK-1\LAB TASK-1\bin\Debug\net6.0\LAB TASK-1.runtimeconfig.json
+C:\Users\tshilidzi.nembilwi\Desktop\LAB TASK-1\LAB TASK-1\LAB TASK-1\bin\Debug\net6.0\LAB TASK-1.dll
+C:\Users\tshilidzi.nembilwi\Desktop\LAB TASK-1\LAB TASK-1\LAB TASK-1\bin\Debug\net6.0\LAB TASK-1.pdb
+C:\Users\tshilidzi.nembilwi\Desktop\LAB TASK-1\LAB TASK-1\LAB TASK-1\obj\Debug\net6.0\LAB TASK-1.csproj.AssemblyReference.cache
+C:\Users\tshilidzi.nembilwi\Desktop\LAB TASK-1\LAB TASK-1\LAB TASK-1\obj\Debug\net6.0\LAB TASK-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tshilidzi.nembilwi\Desktop\LAB TASK-1\LAB TASK-1\LAB TASK-1\obj\Debug\net6.0\LAB TASK-1.AssemblyInfoInputs.cache
+C:\Users\tshilidzi.nembilwi\Desktop\LAB TASK-1\LAB TASK-1\LAB TASK-1\obj\Debug\net6.0\LAB TASK-1.AssemblyInfo.cs
+C:\Users\tshilidzi.nembilwi\Desktop\LAB TASK-1\LAB TASK-1\LAB TASK-1\obj\Debug\net6.0\LAB TASK-1.csproj.CoreCompileInputs.cache
+C:\Users\tshilidzi.nembilwi\Desktop\LAB TASK-1\LAB TASK-1\LAB TASK-1\obj\Debug\net6.0\LAB TASK-1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tshilidzi.nembilwi\Desktop\LAB TASK-1\LAB TASK-1\LAB TASK-1\obj\Debug\net6.0\LAB TASK-1.RazorAssemblyInfo.cache
+C:\Users\tshilidzi.nembilwi\Desktop\LAB TASK-1\LAB TASK-1\LAB TASK-1\obj\Debug\net6.0\LAB TASK-1.RazorAssemblyInfo.cs
+C:\Users\tshilidzi.nembilwi\Desktop\LAB TASK-1\LAB TASK-1\LAB TASK-1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\tshilidzi.nembilwi\Desktop\LAB TASK-1\LAB TASK-1\LAB TASK-1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\tshilidzi.nembilwi\Desktop\LAB TASK-1\LAB TASK-1\LAB TASK-1\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\tshilidzi.nembilwi\Desktop\LAB TASK-1\LAB TASK-1\LAB TASK-1\obj\Debug\net6.0\scopedcss\bundle\LAB TASK-1.styles.css
+C:\Users\tshilidzi.nembilwi\Desktop\LAB TASK-1\LAB TASK-1\LAB TASK-1\obj\Debug\net6.0\scopedcss\projectbundle\LAB TASK-1.bundle.scp.css
+C:\Users\tshilidzi.nembilwi\Desktop\LAB TASK-1\LAB TASK-1\LAB TASK-1\obj\Debug\net6.0\LAB TASK-1.dll
+C:\Users\tshilidzi.nembilwi\Desktop\LAB TASK-1\LAB TASK-1\LAB TASK-1\obj\Debug\net6.0\refint\LAB TASK-1.dll
+C:\Users\tshilidzi.nembilwi\Desktop\LAB TASK-1\LAB TASK-1\LAB TASK-1\obj\Debug\net6.0\LAB TASK-1.pdb
+C:\Users\tshilidzi.nembilwi\Desktop\LAB TASK-1\LAB TASK-1\LAB TASK-1\obj\Debug\net6.0\LAB TASK-1.genruntimeconfig.cache
+C:\Users\tshilidzi.nembilwi\Desktop\LAB TASK-1\LAB TASK-1\LAB TASK-1\obj\Debug\net6.0\ref\LAB TASK-1.dll
